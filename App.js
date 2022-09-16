@@ -2,10 +2,10 @@
 import { AddTransaction } from './AddTransaction';
 import './App.css';
 import { Balance } from './Balance';
-import { Header } from './Header';
-import { IncomeExpenses } from './IncomeExpenses';
-import { TransactionList } from './TransactionList';
-import { GlobalProvider } from './GlobalState';
+import { Header } from './src/Header';
+import { IncomeExpenses } from './src/IncomeExpenses';
+import { TransactionList } from './src/TransactionList';
+import { GlobalProvider } from './src/GlobalState';
 
 
 

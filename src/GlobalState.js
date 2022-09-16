@@ -1,5 +1,5 @@
 
-import {AppReducer} from "./AppReducer.js";
+import {AppReducer} from "../AppReducer.js";
 import { createContext, useReducer } from 'react';
 import axios from 'axios';
 
